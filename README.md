@@ -22,5 +22,4 @@
 ### Currently learning  
 📌 Advanced SQL | Python for Data Analysis | Cloud-based Data Solutions  
 
-### Let's connect  
-📫 Reach me at: [www.linkedin.com/in/valentyna-lychko]  
+
